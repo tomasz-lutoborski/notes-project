@@ -1,0 +1,16 @@
+﻿.pageTitle {
+    margin-left: 35px;
+    color: red;
+}
+
+.newNote {
+    margin: 15px 30px;
+}
+
+.newNoteField {
+    margin: 20px 0;
+}
+
+.addNoteButton {
+    padding: 10px 127px;
+}
